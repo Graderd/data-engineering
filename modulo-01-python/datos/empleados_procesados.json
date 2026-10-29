@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Starling Feliz",
+        "puesto": "Ingeniero de Datos",
+        "salario": 80000.0
+    },
+    {
+        "nombre": "Carlos Mendoza",
+        "puesto": "Ingeniero de Software",
+        "salario": 120000.0
+    },
+    {
+        "nombre": "Maria Garcia",
+        "puesto": "Analista de Datos",
+        "salario": 75000.0
+    },
+    {
+        "nombre": "Juan Perez",
+        "puesto": "Gerente de Proyecto",
+        "salario": 100000.0
+    },
+    {
+        "nombre": "Ana Lopez",
+        "puesto": "Diseñadora UX",
+        "salario": 85000.0
+    }
+]
